@@ -89,7 +89,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -117,6 +117,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  { Diary : 日记 }
 tag_map:
 
 # Metadata elements
@@ -151,4 +152,7 @@ theme: hexo-theme-skapp
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  message: update
+  repo: daylight@13.75.73.103:/home/daylight/hexo.git
+  branch: master
