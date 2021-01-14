@@ -2,7 +2,10 @@
 title: Hello World
 author:
     name: Daylight
-    link: www.daylight.press
+    link: http://www.daylight.press
+editor:
+    name: Daylight
+    link: http://www.daylight.press
 tags: [draft, hello world]
 categories:
     - [Diary]

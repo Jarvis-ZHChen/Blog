@@ -3,6 +3,9 @@ title: Hello World
 author: 
     name: Hexo Official
     link: https://www.hexo.io
+editor:
+    name: Daylight
+    link: http://www.daylight.press
 tags: [hexo, quick start, hello world]
 categories: 
     - [Diary]

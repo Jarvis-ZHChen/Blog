@@ -2,8 +2,8 @@
  * blog theme 
  */
 
-$main-color: #19abd6                                !default;
-$main-color--hover: lighten($main-color, 10%)       !default;
+$main-color: #1e232e                                !default;
+$main-color--hover:lighten($main-color, 10%)      !default;
 
 $font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,"PingFang SC","Lantinghei SC","Microsoft Yahei","Hiragino Sans GB","Microsoft Sans Serif","WenQuanYi Micro Hei",sans           !default;
 
@@ -16,8 +16,8 @@ $title-fc: #242f35                                  !default;
 $hint-fc: #19abd6                                   !default;
 
 $bgc--main: #fff                                    !default;
-$bgc--bottom: #2d383e                               !default;
-$bgc--footer: #242f35                               !default;
+$bgc--bottom: #1e232e                               !default;
+$bgc--footer: lighten($main-color, 3%)                               !default;
 
 $border-c: #d8e5f3                                  !default;
 

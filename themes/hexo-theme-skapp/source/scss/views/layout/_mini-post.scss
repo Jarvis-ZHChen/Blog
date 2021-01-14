@@ -22,7 +22,7 @@ body {
 
         .mini-article__cover {
             &::before {
-                background-color: rgba(30, 200, 252, 0.9);
+                background-color: $main-color--hover;
             }
 
             & > a {
@@ -129,7 +129,7 @@ body {
     text-align: right;
 
     & > span a {
-        color: $main-color;
+        color: $hint-fc;
         text-decoration: none;
     }
 

@@ -4,19 +4,19 @@
 
 # Site
 # 博客的标题
-title: Title
+title: Daylight's Blog
 
 # banner显示的子标题
-subtitle:  Subtitle
+subtitle:  Daylight's Blog
 
 # banner显示的简短介绍
-subtitle_desc: subtitle_desc
+subtitle_desc: O ever youthful, O ever weeping
 
 # seo关键字
-keywords: keyword1, keyword2
+keywords: 程序员, 前端, 移动开发, 软件工程, iOS, Java, Swift, Objective-C 
 
 # 博客介绍（同时用于seo）
-description: description
+description: 工作半年的程序猿，现任iOS开发。Coldplay与Avril铁粉，前果粉，慢跑爱好者。持续性踌躇满志，间歇性混吃等死。热爱编程，始终觉得写代码是一种享受，目标是成为principal的男人！
 
 # 个人介绍
 introduction: introduction
@@ -31,7 +31,7 @@ logo: /img/logo.png
 avatar: /img/logo.png
 
 # 文章的默认封面
-default_cover: /img/magic.webp
+default_cover: /img/vivalavida.webp
 
 # header 的背景图
 header_cover: /img/magic.webp
@@ -40,7 +40,7 @@ header_cover: /img/magic.webp
 error_page_bg: /img/magic.webp
 
 # 页面加载loading图标
-loader_img: /img/vivalavida.webp
+loader_img: ''
 
 # 站长信息
 author:
@@ -48,9 +48,9 @@ author:
   link: https://www.baidu.com
 # 用于页面 footer 的站长信息
 about:
-  info: info
+  info: 本站是基于Hexo与skapp搭建的静态博客，主要用于吐槽生活，日常记录。持续性积极，间歇性丧气。
   address: Suzhou, Suzhou Province, China
-  email: email@outlook.com
+  email: jarvis.git@outlook.com
 language: zh-cn
 timezone: asia/shanghai
 
@@ -61,7 +61,7 @@ menu:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://daylight.press
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -117,7 +117,6 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  { Diary : 日记 }
 tag_map:
 
 # Metadata elements
@@ -156,3 +155,11 @@ deploy:
   message: update
   repo: daylight@13.75.73.103:/home/daylight/hexo.git
   branch: master
+
+#gittalk
+gitTalk: 
+  clientID: d3526d90af602964a506
+  clientSecret: 7eed59bb7a70e1c89fb2b748ef7f9665ed6be5f1
+  repo: https://github.com/Jarvis-ZHChen/blogTalk
+  owner: Jarvis-ZHChen
+  admin: [Jarvis-ZHChen]
