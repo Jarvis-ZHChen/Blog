@@ -158,8 +158,8 @@ deploy:
 
 #gittalk
 gitTalk: 
-  clientID: d3526d90af602964a506
+  clientId: d3526d90af602964a506
   clientSecret: 7eed59bb7a70e1c89fb2b748ef7f9665ed6be5f1
-  repo: https://github.com/Jarvis-ZHChen/blogTalk
+  repo: blogTalk
   owner: Jarvis-ZHChen
   admin: [Jarvis-ZHChen]
