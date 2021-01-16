@@ -71,7 +71,7 @@ hfc_js:
     - '*.min.js'
 
 hfc_img:
-  enable: false
+  enable: true
   interlaced: false
   multipass: false
   optimizationLevel: 2
@@ -79,7 +79,7 @@ hfc_img:
   progressive: false
 
 hfc_favicons:
-  enable: false
+  enable: true
   src: img/blog-logo.png
   target: img/
   icons:
