@@ -16,13 +16,13 @@ subtitle_desc: O ever youthful, O ever weeping
 keywords: 程序员, 前端, 移动开发, 软件工程, iOS, Java, Swift, Objective-C 
 
 # 博客介绍（同时用于seo）
-description: 工作半年的程序猿，现任iOS开发。Coldplay与Avril铁粉，前果粉，慢跑爱好者。持续性踌躇满志，间歇性混吃等死。热爱编程，始终觉得写代码是一种享受，目标是成为principal的男人！
+description: 工作半年的程序猿，现任iOS开发。Coldplay与Avril铁粉，前果粉，慢跑爱好者。持续性踌躇满志，间歇性混吃等死。热爱编程，始终觉得写代码是一种乐趣。目标成为principal！
 
 # 个人介绍
 introduction: introduction
 
 # 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
-favicon_ico: /img/logo.png
+favicon_ico: /img/favicon.ico
 
 # 博客的左上角logo图标，支持本地及在线两种方式
 logo: /img/logo.png
