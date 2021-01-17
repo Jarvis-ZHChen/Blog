@@ -85,13 +85,13 @@
     }
 
     a {
-        color: $main-color;
+        color: $link-color;
         transition: color .3s;
         text-decoration: none;
 
         &:hover,
         &:active {
-            color: $main-color--hover;
+            color: $link-color-hover;
             text-decoration: underline;
         }
     }

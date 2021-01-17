@@ -32,3 +32,6 @@ $pad: 15px                                          !default;
 $z-index--bottom: 1                                 !default;
 $z-index--center: 50                                !default;
 $z-index--top: 100                                  !default;
+
+$link-color: #2552e4                              !default;
+$link-color-hover : lighten($link-color, 10%)      !default;
