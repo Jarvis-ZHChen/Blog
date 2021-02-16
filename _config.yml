@@ -49,7 +49,7 @@ author:
 # 用于页面 footer 的站长信息
 about:
   info: 本站是基于Hexo与skapp搭建的静态博客，主要用于吐槽生活，日常记录。持续性积极，间歇性丧气。
-  address: Suzhou, Suzhou Province, China
+  address: Suzhou, Jiangsu Province, China
   email: jarvis.git@outlook.com
 language: zh-cn
 timezone: asia/shanghai
