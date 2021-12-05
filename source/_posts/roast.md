@@ -11,7 +11,9 @@ date: 2021-01-19 22:18:35
 tags: [Roast, 吐槽]
 cover: /img/posts/roast/cover.jpeg
 ---
-
+```
+2021/12/05 - 开始做一些除了coding之外的事情，虽然很challenging但是与人斗其乐无穷！just joking，大家还是非常nice的，一定要控制好自己的情绪！
+```
 ```
 2021/1/20 - 困扰很久的Bug终于修了！具体请戳 --->>> https://http://daylight.press/2021/01/19/a-very-wired-bug/
 ```
