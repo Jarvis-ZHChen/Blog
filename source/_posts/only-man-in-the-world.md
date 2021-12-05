@@ -12,7 +12,7 @@ tags: [小说, 内卷]
 categories:
     - [Novel]
     - [Life]
-cover: /img/posts/only-man-in-the-world/cover.webp
+cover: /img/posts/only_man_in_the_world/cover.webp
 ---
 ## 一
 
